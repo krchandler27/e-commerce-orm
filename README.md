@@ -22,6 +22,9 @@ Once navigate to the folder in which you installed the repo in bash get logged i
 
 ## Walkthrough Tutorial
 [Click Here](https://www.loom.com/share/3793dda2f9904f2ab9d1e1eb42e290d6) to watch the walkthrough tutorial.
+![picture1](https://user-images.githubusercontent.com/116527506/220015012-160b8e3e-5c0a-4c27-bf0a-82ce6bf0624f.JPG)
+
+
 
 ## Test Instructions
 N/A
